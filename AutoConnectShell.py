@@ -3,8 +3,8 @@
 import requests
 import time
 
-username="wujie427"
-password="xiyou3gfz155"
+username="xxx"
+password="xxx"
 testurl = "https://baidu.com"
 reurl = "http://172.18.0.3/a.htm"
 
